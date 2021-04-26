@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31004.235
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PubMedConverter", "PubMedCoverter\PubMedConverter.csproj", "{9CB86004-686B-45A0-8811-59A9A8B55384}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPubMed", "TestPubMed\TestPubMed.csproj", "{20394AB1-4C09-424F-8D8F-E1C5E3E50E8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CB86004-686B-45A0-8811-59A9A8B55384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CB86004-686B-45A0-8811-59A9A8B55384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CB86004-686B-45A0-8811-59A9A8B55384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CB86004-686B-45A0-8811-59A9A8B55384}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20394AB1-4C09-424F-8D8F-E1C5E3E50E8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20394AB1-4C09-424F-8D8F-E1C5E3E50E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20394AB1-4C09-424F-8D8F-E1C5E3E50E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20394AB1-4C09-424F-8D8F-E1C5E3E50E8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06C180D7-225A-435C-B97F-6869B79DF094}
+	EndGlobalSection
+EndGlobal

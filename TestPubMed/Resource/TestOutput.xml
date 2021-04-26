@@ -1,0 +1,155 @@
+﻿<asset xmlns="http://www.wolterskluwer.com/ssr/asset"
+       xmlns:xhtml="http://www.w3.org/1999/xhtml"
+       xmlns:xlink="http://www.w3.org/1999/xlink"
+       ofType="table"
+       status="active">
+  <assetInformation>
+    <wkmrid>JOURNAL/precos/04.03/00006534-202008000-00023/table2-23/v/2020-10-09T203118Z/r/text-xml</wkmrid>
+    <assetId>00006534-202008000-00023</assetId>
+    <outputId>table2-23</outputId>
+    <productId>precos</productId>
+    <productVersion>04.03</productVersion>
+    <inputFormat>OVIDFULL</inputFormat>
+    <assetSchemaVersion>07.03.04</assetSchemaVersion>
+    <mappingFileVersion>08.00.01</mappingFileVersion>
+    <parentWkmridList>
+      <parentWkmrid updateId="parentWkmrid_ID_d42451e17" ofType="article">JOURNAL/precos/04.03/00006534-202008000-00023/root/v/2020-10-09T203118Z/r/text-xml</parentWkmrid>
+    </parentWkmridList>
+    <representationList>
+      <representation updateId="representation_ID_d42451e23" isPrimary="true">
+        <wkmrid>JOURNAL/precos/04.03/00006534-202008000-00023/table2-23/v/2020-10-09T203118Z/r/image-tiff</wkmrid>
+        <fileSize>388139</fileSize>
+      </representation>
+    </representationList>
+    <flagList>
+      <flag ofType="abstract-available" value="false"/>
+      <flag ofType="abstract-only" value="false"/>
+      <flag ofType="full-text-available" value="false"/>
+      <flag ofType="online-only" value="false"/>
+      <flag ofType="open-access" value="false"/>
+      <flag ofType="pdf-only" value="false"/>
+      <flag ofType="enriched-content-available" value="false"/>
+      <flag ofType="sdc" value="false"/>
+    </flagList>
+  </assetInformation>
+  <metadataList>
+    <metadata ofType="article">
+      <auxiliaryOfTypeList>
+        <auxiliaryOfType>journal</auxiliaryOfType>
+      </auxiliaryOfTypeList>
+      <externalIdentifierList>
+        <externalIdentifier ofType="accession-number">
+          <valueList>
+            <value valueType="source" format="plain-text">
+              <plainText>00006534-202008000-00023</plainText>
+            </value>
+          </valueList>
+          <auxiliaryOfTypeList>
+            <auxiliaryOfType>provider-id</auxiliaryOfType>
+          </auxiliaryOfTypeList>
+        </externalIdentifier>
+      </externalIdentifierList>
+    </metadata>
+    <metadata ofType="issue">
+      <taxonomyIdentifierList>
+        <taxonomyIdentifier ofType="issue-year">
+          <valueList>
+            <value valueType="source" format="plain-text">
+              <plainText>2020</plainText>
+            </value>
+          </valueList>
+        </taxonomyIdentifier>
+      </taxonomyIdentifierList>
+      <auxiliaryOfTypeList>
+        <auxiliaryOfType>journal</auxiliaryOfType>
+      </auxiliaryOfTypeList>
+      <externalIdentifierList>
+        <externalIdentifier ofType="accession-number">
+          <valueList>
+            <value valueType="source" format="plain-text">
+              <plainText>00006534-202008000-00000</plainText>
+            </value>
+          </valueList>
+        </externalIdentifier>
+        <externalIdentifier ofType="issue-id">
+          <valueList>
+            <value valueType="source" format="plain-text">
+              <plainText>202008000</plainText>
+            </value>
+          </valueList>
+        </externalIdentifier>
+      </externalIdentifierList>
+    </metadata>
+    <metadata ofType="journal">
+      <externalIdentifierList>
+        <externalIdentifier ofType="accession-number">
+          <valueList>
+            <value valueType="source" format="plain-text">
+              <plainText>00006534-000000000-00000</plainText>
+            </value>
+          </valueList>
+        </externalIdentifier>
+      </externalIdentifierList>
+    </metadata>
+    <metadata ofType="table">
+      <titleList>
+        <title ofType="title">
+          <valueList>
+            <value format="plain-text" valueType="normalized">
+              <plainText>Table 2</plainText>
+            </value>
+          </valueList>
+        </title>
+      </titleList>
+      <captionList>
+        <caption ofType="caption">
+          <valueList>
+            <value format="plain-text" valueType="normalized">
+              <plainText>Summary Statistics of Costs per Patient Associated with Adherence*</plainText>
+            </value>
+          </valueList>
+        </caption>
+      </captionList>
+    </metadata>
+  </metadataList>
+  <content id="T2-23"
+           ofType="table"
+           propertySetRefId="propertySet_content_1.2">
+    <fullText>
+      <header>Table 2. Summary Statistics of Costs per Patient Associated with Adherence*</header>
+      <content ofType="image" externalLinkSetRefId="externalLinkSet_content_1.2.3">
+        <fullText>
+          <fileLink updateId="fileLink_ID_d42451e46"
+                    xlink:href="JOURNAL/precos/04.03/00006534-202008000-00023/table2-23/v/2020-10-09T203118Z/r/image-tiff"/>
+        </fullText>
+      </content>
+    </fullText>
+  </content>
+  <resourceList>
+    <resource ofType="properties">
+      <propertySetList>
+        <propertySet id="propertySet_content_1.2">
+          <propertyList>
+            <property>
+              <key>IDREF</key>
+              <valueList>
+                <value format="plain-text" valueType="source">
+                  <plainText>K20-23 K22-23</plainText>
+                </value>
+              </valueList>
+            </property>
+          </propertyList>
+        </propertySet>
+      </propertySetList>
+    </resource>
+    <resource ofType="external-link">
+      <externalLinkSetList>
+        <externalLinkSet id="externalLinkSet_content_1.2.3">
+          <externalLinkList>
+            <externalLink ofType="unknown" format="uri" xlink:href="23TT2.tiff"/>
+          </externalLinkList>
+        </externalLinkSet>
+      </externalLinkSetList>
+    </resource>
+  </resourceList>
+</asset>

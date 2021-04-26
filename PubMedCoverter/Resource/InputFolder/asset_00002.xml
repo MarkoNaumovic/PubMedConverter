@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asset xmlns="http://www.wolterskluwer.com/ssr/asset"
+       xmlns:xlink="http://www.w3.org/1999/xlink"
+       xmlns:xhtml="http://www.w3.org/1999/xhtml"
+       ofType="figure"
+       status="active">
+   <assetInformation>
+      <wkmrid>JOURNAL/precos/04.03/00006534-202008000-00023/figure2-23/v/2020-10-09T203118Z/r/text-xml</wkmrid>
+      <assetId>00006534-202008000-00023</assetId>
+      <outputId>figure2-23</outputId>
+      <productId>precos</productId>
+      <productVersion>04.03</productVersion>
+      <inputFormat>OVIDFULL</inputFormat>
+      <assetSchemaVersion>07.03.04</assetSchemaVersion>
+      <mappingFileVersion>08.00.01</mappingFileVersion>
+      <parentWkmridList>
+         <parentWkmrid updateId="parentWkmrid_ID_d41929e17" ofType="article">JOURNAL/precos/04.03/00006534-202008000-00023/root/v/2020-10-09T203118Z/r/text-xml</parentWkmrid>
+      </parentWkmridList>
+      <representationList>
+         <representation updateId="representation_ID_d41929e23" isPrimary="true">
+            <wkmrid>JOURNAL/precos/04.03/00006534-202008000-00023/figure2-23/v/2020-10-09T203118Z/r/image-tiff</wkmrid>
+            <fileSize>202296</fileSize>
+         </representation>
+      </representationList>
+      <flagList>
+         <flag ofType="abstract-available" value="false"/>
+         <flag ofType="abstract-only" value="false"/>
+         <flag ofType="full-text-available" value="false"/>
+         <flag ofType="online-only" value="false"/>
+         <flag ofType="open-access" value="false"/>
+         <flag ofType="pdf-only" value="false"/>
+         <flag ofType="enriched-content-available" value="false"/>
+         <flag ofType="sdc" value="false"/>
+      </flagList>
+   </assetInformation>
+   <metadataList>
+      <metadata ofType="article">
+         <auxiliaryOfTypeList>
+            <auxiliaryOfType>journal</auxiliaryOfType>
+         </auxiliaryOfTypeList>
+         <externalIdentifierList>
+            <externalIdentifier ofType="accession-number">
+               <valueList>
+                  <value valueType="source" format="plain-text">
+                     <plainText>00006534-202008000-00023</plainText>
+                  </value>
+               </valueList>
+               <auxiliaryOfTypeList>
+                  <auxiliaryOfType>provider-id</auxiliaryOfType>
+               </auxiliaryOfTypeList>
+            </externalIdentifier>
+         </externalIdentifierList>
+      </metadata>
+      <metadata ofType="issue">
+         <taxonomyIdentifierList>
+            <taxonomyIdentifier ofType="issue-year">
+               <valueList>
+                  <value valueType="source" format="plain-text">
+                     <plainText>2020</plainText>
+                  </value>
+               </valueList>
+            </taxonomyIdentifier>
+         </taxonomyIdentifierList>
+         <auxiliaryOfTypeList>
+            <auxiliaryOfType>journal</auxiliaryOfType>
+         </auxiliaryOfTypeList>
+         <externalIdentifierList>
+            <externalIdentifier ofType="accession-number">
+               <valueList>
+                  <value valueType="source" format="plain-text">
+                     <plainText>00006534-202008000-00000</plainText>
+                  </value>
+               </valueList>
+            </externalIdentifier>
+            <externalIdentifier ofType="issue-id">
+               <valueList>
+                  <value valueType="source" format="plain-text">
+                     <plainText>202008000</plainText>
+                  </value>
+               </valueList>
+            </externalIdentifier>
+         </externalIdentifierList>
+      </metadata>
+      <metadata ofType="journal">
+         <externalIdentifierList>
+            <externalIdentifier ofType="accession-number">
+               <valueList>
+                  <value valueType="source" format="plain-text">
+                     <plainText>00006534-000000000-00000</plainText>
+                  </value>
+               </valueList>
+            </externalIdentifier>
+         </externalIdentifierList>
+      </metadata>
+      <metadata ofType="figure">
+         <titleList>
+            <title ofType="title">
+               <valueList>
+                  <value format="plain-text" valueType="normalized">
+                     <plainText>Fig. 2</plainText>
+                  </value>
+               </valueList>
+            </title>
+         </titleList>
+         <captionList>
+            <caption ofType="caption">
+               <valueList>
+                  <value format="full-text" valueType="normalized">
+                     <fullText>
+                        <paragraph>Average injection success rates by diabetes status (<emphasis style="italic">left</emphasis>) and by sex (<emphasis style="italic">right</emphasis>).</paragraph>
+                     </fullText>
+                  </value>
+               </valueList>
+            </caption>
+         </captionList>
+      </metadata>
+   </metadataList>
+   <content id="F2-23"
+            ofType="figure"
+            propertySetRefId="propertySet_content_1.2"
+            externalLinkSetRefId="externalLinkSet_content_1.2">
+      <fullText>
+         <fileLink updateId="fileLink_ID_d41929e41"
+                   xlink:href="JOURNAL/precos/04.03/00006534-202008000-00023/figure2-23/v/2020-10-09T203118Z/r/image-tiff"/>
+         <header>Fig. 2</header>
+         <content ofType="caption">
+            <fullText>
+               <paragraph>Average injection success rates by diabetes status (<emphasis style="italic">left</emphasis>) and by sex (<emphasis style="italic">right</emphasis>).</paragraph>
+            </fullText>
+         </content>
+      </fullText>
+   </content>
+   <resourceList>
+      <resource ofType="properties">
+         <propertySetList>
+            <propertySet id="propertySet_content_1.2">
+               <propertyList>
+                  <property>
+                     <key>IDREF</key>
+                     <valueList>
+                        <value format="plain-text" valueType="source">
+                           <plainText>K18-23 K19-23 K24-23</plainText>
+                        </value>
+                     </valueList>
+                  </property>
+               </propertyList>
+            </propertySet>
+         </propertySetList>
+      </resource>
+      <resource ofType="external-link">
+         <externalLinkSetList>
+            <externalLinkSet id="externalLinkSet_content_1.2">
+               <externalLinkList>
+                  <externalLink ofType="unknown" format="uri" xlink:href="23FF2.tif"/>
+               </externalLinkList>
+            </externalLinkSet>
+         </externalLinkSetList>
+      </resource>
+   </resourceList>
+</asset>
